@@ -1,4 +1,4 @@
 DTN
 ===
 
-DTM protocal for VOXearch DTN module ProjectARA
+DTN protocal for VOXearch Qualcomm Tricorder Xptize DTN module Google ProjectARA
